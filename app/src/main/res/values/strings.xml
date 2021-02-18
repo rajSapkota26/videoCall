@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VideoCall</string>
+    <string name="login_here">LOGIN HERE</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already Have An Account</string>
+    <string name="username">UserName</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="setting">Setting</string>
+    <string name="logout">LogOut</string>
+</resources>
